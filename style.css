@@ -82,3 +82,8 @@ width: 300px
 }
 .a1{ text-align: center;
 }
+.parent{
+    display: flex;
+    background-color: rgb(42, 157, 165);
+    text-align: center;
+}
